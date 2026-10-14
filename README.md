@@ -1,10 +1,10 @@
-# OpenUG-Android
+# UnrealGold-Android
 
 Unofficial Android launcher for **Unreal Gold**, using OldUnreal's native Linux 227 ARM64 engine inside a minimal ARM64 Linux runtime. Android 8+ and an ARM64 device are required.
 
 ## Install
 
-Download the signed APK from [Releases](https://github.com/tib-kpl/OpenUG-Android/releases/latest). Allow file access, then select an existing PC game folder or choose **Telecharger le jeu** to install the official OldUnreal game media into a folder of your choice. Downloads resume after interruption and the media is checked against the SHA-256 published by the official installer. The OldUnreal Linux patch is downloaded at first launch. No game data or proprietary engine binaries are bundled in the APK.
+Download the signed APK from [Releases](https://github.com/tib-kpl/UnrealGold-Android/releases/latest). Allow file access, then select an existing PC game folder or choose **Telecharger le jeu** to install the official OldUnreal game media into a folder of your choice. Downloads resume after interruption and the media is checked against the SHA-256 published by the official installer. The OldUnreal Linux patch is downloaded at first launch. No game data or proprietary engine binaries are bundled in the APK.
 
 ## Controls and settings
 

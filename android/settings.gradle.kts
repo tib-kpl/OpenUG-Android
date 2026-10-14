@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "OpenUG"
+rootProject.name = "Unreal Gold"
 include(":app")
